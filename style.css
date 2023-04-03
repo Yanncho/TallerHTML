@@ -1,0 +1,29 @@
+
+body {
+ background-color: gold;
+}
+h1 {
+ color: black;
+ text-align: center;
+ font-size: x-large;
+}
+h2{
+    color: black;
+    text-align: center;
+    font-size: x-large;
+    background-image: url("https://th.bing.com/th/id/R.cdfcc198813e3415701a7a7c18aebe3d?rik=JpL1xliKf6BOGQ&riu=http%3a%2f%2fwww.megasoccer.com%2fwp-content%2fuploads%2f2018%2f10%2fsoccer-stadium-la-bombonera-2.jpg&ehk=INLf9GtV7DFhZKat8h0IK7cjViWeByXszQQyqHeV4qg%3d&risl=&pid=ImgRaw&r=0");
+}
+
+p {
+ color:black;
+}
+
+d1{
+    color: gold;
+    font-size: large;
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+
